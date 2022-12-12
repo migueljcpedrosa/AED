@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Miguel\FEUP\2Ano\1Semestre\AED\aed2223_ci1 -B C:\Miguel\FEUP\2Ano\1Semestre\AED\aed2223_ci1\cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2022.2.3/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2022.2.3/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found Python: C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0/python3.10.exe (found version "3.10.8") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Miguel/FEUP/2Ano/1Semestre/AED/aed2223_ci1/cmake-build-debug
